@@ -1,0 +1,17 @@
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\ProcessMon.exe.config
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\ProcessMon.exe
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\ProcessMon.pdb
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\CommonObjects.dll
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\FilterControl.dll
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\CommonObjects.pdb
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\bin\Debug\FilterControl.pdb
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.csprojResolveAssemblyReference.cache
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.ProcessFilterSetting.resources
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.ProcessFileAccessRights.resources
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.ProcessFilterSettingCollection.resources
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.ProcessMon.resources
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.Properties.Resources.resources
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.ProcessUnitTestForm.resources
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.csproj.GenerateResource.Cache
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.exe
+L:\github\ProcessFilterExample\ProcessFilterExample\ProcessMon\obj\Debug\ProcessMon.pdb
