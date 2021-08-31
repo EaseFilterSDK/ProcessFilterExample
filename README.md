@@ -13,7 +13,7 @@ You can register the process or thread events to monitor the process or thread a
 -  **NotifyProcessHandleInfo**: Get the notification when the process handle operation happens.
 -  **NotifyThreadHandleInfo**: Get the notification when the thread handle operation happens.
 
-## Prevent the untrusted process from being launched
+## Prevent the untrusted processes from being launched
 With the Process Filter Driver, it allows you to prevent the untrusted executable binaries (malwares) from being launched, protect your data being damaged by the untrusted processes. It also enables your application to get the callback notification for the process/thread creation or termination, from the new process information you can get the parent process Id and thread Id of the new created process, you also can get the exact file name that is used to open the executable file and the command line that is used to execute the process if it is available.
 
 ## A C# process monitoring and protection example.
