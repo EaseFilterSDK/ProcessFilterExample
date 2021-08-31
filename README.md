@@ -18,6 +18,7 @@ With the Process Filter Driver, it allows you to prevent the untrusted executabl
 
 ## A C# process monitoring and protection example.
 With the process monitoring and proection example, it enables your application to prevent the untrusted executable binaries ( malwares) from being launched, protect your data being damaged by the untrusted processes. It also enables your application to get the callback notification for the process/thread creation or termination, from the new process information you can get the parent process Id and thread Id of the new created process, you also can get the exact file name that is used to open the executable file and the command line that is used to execute the process if it is available.
+
 ![Process monitoring and protection](https://www.easefilter.com/images/processScreenshot.png)
 
 [Read more about process filter example](https://www.easefilter.com/Forums_Files/Process-Monitor.htm)
